@@ -1,0 +1,53 @@
+{
+  "name": "sex_LA",
+  "title": "Local authority sex data",
+  "description": "Local authority data from the UK 2011 census on Sex and turned into a standard normalized CSV.",
+  "license": "OGL",
+  "keywords": [ "Sex", "Local Authority", "United Kingdom", "Census", "2011" ],
+  "version": "2011",
+  "last_updated": "2011-09-21",
+  "sources": [{
+    "name": "UK Data Service - InFuse 2011",
+    "web": "http://Infuse.UKDataservice.ac.uk"
+  }],
+  "resources": [
+    {
+      "name": "sex_la",
+      "path": "data/sex_la.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "GEO_CODE",
+	    "description": "Official geography code", 
+            "type": "string"
+          },
+	  {
+            "name": "GEO_LABEL",
+	    "description": "Official geography name", 
+            "type": "string"
+          },
+          {
+            "name": "GEO_TYPE",
+	    "description": "Geography type", 
+            "type": "string"
+          },
+          {
+            "name": "F2340",
+            "description": "Sex : Total Sex - Unit : Persons", 
+            "type": "number"
+          },
+          {
+            "name": "F2341",
+            "description": "Sex : Males - Unit : Persons", 
+            "type": "number"
+          },
+          {
+            "name": "F2342",
+            "description": "Sex : Females - Unit : Persons", 
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ]
+}

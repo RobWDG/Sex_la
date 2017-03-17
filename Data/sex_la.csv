@@ -1,0 +1,405 @@
+GEO_CODE,GEO_LABEL,GEO_TYPE,F2340,F2341,F2342
+95AA     ,Antrim,Local Authorities,53428,26310,27118
+95BB     ,Ards,Local Authorities,78078,38086,39992
+95CC     ,Armagh,Local Authorities,59340,29509,29831
+95DD     ,Ballymena,Local Authorities,64044,31398,32646
+95EE     ,Ballymoney,Local Authorities,31224,15442,15782
+95FF     ,Banbridge,Local Authorities,48339,23976,24363
+95GG     ,Belfast,Local Authorities,280962,135077,145885
+95HH     ,Carrickfergus,Local Authorities,39114,18851,20263
+95II     ,Castlereagh,Local Authorities,67242,32287,34955
+95JJ     ,Coleraine,Local Authorities,59067,28742,30325
+95KK     ,Cookstown,Local Authorities,37013,18465,18548
+95LL     ,Craigavon,Local Authorities,93023,45776,47247
+95MM     ,Derry,Local Authorities,107877,52648,55229
+95NN     ,Down,Local Authorities,69731,34385,35346
+95OO     ,Dungannon,Local Authorities,57852,28969,28883
+95PP     ,Fermanagh,Local Authorities,61805,30977,30828
+95QQ     ,Larne,Local Authorities,32180,15660,16520
+95RR     ,Limavady,Local Authorities,33536,16927,16609
+95SS     ,Lisburn,Local Authorities,120165,58658,61507
+95TT     ,Magherafelt,Local Authorities,45038,22598,22440
+95UU     ,Moyle,Local Authorities,17050,8560,8490
+95VV     ,Newry and Mourne,Local Authorities,99480,49481,49999
+95WW     ,Newtownabbey,Local Authorities,85139,41048,44091
+95XX     ,North Down,Local Authorities,78937,37994,40943
+95YY     ,Omagh,Local Authorities,51356,25672,25684
+95ZZ     ,Strabane,Local Authorities,39843,19827,20016
+E06000001,Hartlepool,Local Authorities,92028,44751,47277
+E06000002,Middlesbrough,Local Authorities,138412,67732,70680
+E06000003,Redcar and Cleveland,Local Authorities,135177,65655,69522
+E06000004,Stockton-on-Tees,Local Authorities,191610,94082,97528
+E06000005,Darlington,Local Authorities,105564,51483,54081
+E06000006,Halton,Local Authorities,125746,61368,64378
+E06000007,Warrington,Local Authorities,202228,100300,101928
+E06000008,Blackburn with Darwen,Local Authorities,147489,73547,73942
+E06000009,Blackpool,Local Authorities,142065,69775,72290
+E06000010,"Kingston upon Hull, City of",Local Authorities,256406,128420,127986
+E06000011,East Riding of Yorkshire,Local Authorities,334179,163388,170791
+E06000012,North East Lincolnshire,Local Authorities,159616,78247,81369
+E06000013,North Lincolnshire,Local Authorities,167446,82623,84823
+E06000014,York,Local Authorities,198051,96254,101797
+E06000015,Derby,Local Authorities,248752,123046,125706
+E06000016,Leicester,Local Authorities,329839,162884,166955
+E06000017,Rutland,Local Authorities,37369,18915,18454
+E06000018,Nottingham,Local Authorities,305680,153777,151903
+E06000019,"Herefordshire, County of",Local Authorities,183477,90302,93175
+E06000020,Telford and Wrekin,Local Authorities,166641,82549,84092
+E06000021,Stoke-on-Trent,Local Authorities,249008,123995,125013
+E06000022,Bath and North East Somerset,Local Authorities,176016,86072,89944
+E06000023,"Bristol, City of",Local Authorities,428234,213071,215163
+E06000024,North Somerset,Local Authorities,202566,98463,104103
+E06000025,South Gloucestershire,Local Authorities,262767,130424,132343
+E06000026,Plymouth,Local Authorities,256384,126684,129700
+E06000027,Torbay,Local Authorities,130959,63110,67849
+E06000028,Bournemouth,Local Authorities,183491,91386,92105
+E06000029,Poole,Local Authorities,147645,72121,75524
+E06000030,Swindon,Local Authorities,209156,104618,104538
+E06000031,Peterborough,Local Authorities,183631,90859,92772
+E06000032,Luton,Local Authorities,203201,101954,101247
+E06000033,Southend-on-Sea,Local Authorities,173658,85037,88621
+E06000034,Thurrock,Local Authorities,157705,77823,79882
+E06000035,Medway,Local Authorities,263925,130825,133100
+E06000036,Bracknell Forest,Local Authorities,113205,56107,57098
+E06000037,West Berkshire,Local Authorities,153822,76321,77501
+E06000038,Reading,Local Authorities,155698,77967,77731
+E06000039,Slough,Local Authorities,140205,70120,70085
+E06000040,Windsor and Maidenhead,Local Authorities,144560,71328,73232
+E06000041,Wokingham,Local Authorities,154380,76464,77916
+E06000042,Milton Keynes,Local Authorities,248821,123116,125705
+E06000043,Brighton and Hove,Local Authorities,273369,136108,137261
+E06000044,Portsmouth,Local Authorities,205056,103201,101855
+E06000045,Southampton,Local Authorities,236882,119453,117429
+E06000046,Isle of Wight,Local Authorities,138265,67424,70841
+E06000047,County Durham,Local Authorities,513242,251280,261962
+E06000048,Northumberland,Local Authorities,316028,154124,161904
+E06000049,Cheshire East,Local Authorities,370127,181409,188718
+E06000050,Cheshire West and Chester,Local Authorities,329608,160586,169022
+E06000051,Shropshire,Local Authorities,306129,151606,154523
+E06000054,Wiltshire,Local Authorities,470981,231754,239227
+E06000055,Bedford,Local Authorities,157479,77312,80167
+E06000056,Central Bedfordshire,Local Authorities,254381,126044,128337
+E07000004,Aylesbury Vale,Local Authorities,174137,86241,87896
+E07000005,Chiltern,Local Authorities,92635,45049,47586
+E07000006,South Bucks,Local Authorities,66867,32439,34428
+E07000007,Wycombe,Local Authorities,171644,84617,87027
+E07000008,Cambridge,Local Authorities,123867,62984,60883
+E07000009,East Cambridgeshire,Local Authorities,83818,41443,42375
+E07000010,Fenland,Local Authorities,95262,46811,48451
+E07000011,Huntingdonshire,Local Authorities,169508,84532,84976
+E07000012,South Cambridgeshire,Local Authorities,148755,73790,74965
+E07000026,Allerdale,Local Authorities,96422,47371,49051
+E07000027,Barrow-in-Furness,Local Authorities,69087,34185,34902
+E07000028,Carlisle,Local Authorities,107524,52478,55046
+E07000029,Copeland,Local Authorities,70603,35476,35127
+E07000030,Eden,Local Authorities,52564,26033,26531
+E07000031,South Lakeland,Local Authorities,103658,50522,53136
+E07000032,Amber Valley,Local Authorities,122309,60192,62117
+E07000033,Bolsover,Local Authorities,75866,37388,38478
+E07000034,Chesterfield,Local Authorities,103788,50900,52888
+E07000035,Derbyshire Dales,Local Authorities,71116,35071,36045
+E07000036,Erewash,Local Authorities,112081,54934,57147
+E07000037,High Peak,Local Authorities,90892,44774,46118
+E07000038,North East Derbyshire,Local Authorities,99023,48564,50459
+E07000039,South Derbyshire,Local Authorities,94611,46963,47648
+E07000040,East Devon,Local Authorities,132457,63321,69136
+E07000041,Exeter,Local Authorities,117773,57211,60562
+E07000042,Mid Devon,Local Authorities,77750,38070,39680
+E07000043,North Devon,Local Authorities,93667,45558,48109
+E07000044,South Hams,Local Authorities,83140,40116,43024
+E07000045,Teignbridge,Local Authorities,124220,60179,64041
+E07000046,Torridge,Local Authorities,63839,31167,32672
+E07000047,West Devon,Local Authorities,53553,26123,27430
+E07000048,Christchurch,Local Authorities,47752,22874,24878
+E07000049,East Dorset,Local Authorities,87166,41990,45176
+E07000050,North Dorset,Local Authorities,68583,34216,34367
+E07000051,Purbeck,Local Authorities,44973,22028,22945
+E07000052,West Dorset,Local Authorities,99264,47731,51533
+E07000053,Weymouth and Portland,Local Authorities,65167,32432,32735
+E07000061,Eastbourne,Local Authorities,99412,47559,51853
+E07000062,Hastings,Local Authorities,90254,44014,46240
+E07000063,Lewes,Local Authorities,97502,47363,50139
+E07000064,Rother,Local Authorities,90588,43021,47567
+E07000065,Wealden,Local Authorities,148915,71807,77108
+E07000066,Basildon,Local Authorities,174497,84645,89852
+E07000067,Braintree,Local Authorities,147084,72137,74947
+E07000068,Brentwood,Local Authorities,73601,35582,38019
+E07000069,Castle Point,Local Authorities,88011,42907,45104
+E07000070,Chelmsford,Local Authorities,168310,82914,85396
+E07000071,Colchester,Local Authorities,173074,85343,87731
+E07000072,Epping Forest,Local Authorities,124659,60440,64219
+E07000073,Harlow,Local Authorities,81944,39674,42270
+E07000074,Maldon,Local Authorities,61629,30458,31171
+E07000075,Rochford,Local Authorities,83287,40787,42500
+E07000076,Tendring,Local Authorities,138048,66071,71977
+E07000077,Uttlesford,Local Authorities,79443,39203,40240
+E07000078,Cheltenham,Local Authorities,115732,56512,59220
+E07000079,Cotswold,Local Authorities,82881,40104,42777
+E07000080,Forest of Dean,Local Authorities,81961,40272,41689
+E07000081,Gloucester,Local Authorities,121688,60104,61584
+E07000082,Stroud,Local Authorities,112779,55514,57265
+E07000083,Tewkesbury,Local Authorities,81943,40080,41863
+E07000084,Basingstoke and Deane,Local Authorities,167799,83116,84683
+E07000085,East Hampshire,Local Authorities,115608,56237,59371
+E07000086,Eastleigh,Local Authorities,125199,61384,63815
+E07000087,Fareham,Local Authorities,111581,54634,56947
+E07000088,Gosport,Local Authorities,82622,40736,41886
+E07000089,Hart,Local Authorities,91033,45174,45859
+E07000090,Havant,Local Authorities,120684,58607,62077
+E07000091,New Forest,Local Authorities,176462,84784,91678
+E07000092,Rushmoor,Local Authorities,93807,46757,47050
+E07000093,Test Valley,Local Authorities,116398,56880,59518
+E07000094,Winchester,Local Authorities,116595,56629,59966
+E07000095,Broxbourne,Local Authorities,93609,45357,48252
+E07000096,Dacorum,Local Authorities,144847,71307,73540
+E07000097,East Hertfordshire,Local Authorities,137687,67690,69997
+E07000098,Hertsmere,Local Authorities,100031,48290,51741
+E07000099,North Hertfordshire,Local Authorities,127114,62380,64734
+E07000100,St Albans,Local Authorities,140664,69040,71624
+E07000101,Stevenage,Local Authorities,83957,41483,42474
+E07000102,Three Rivers,Local Authorities,87317,42371,44946
+E07000103,Watford,Local Authorities,90301,44828,45473
+E07000104,Welwyn Hatfield,Local Authorities,110535,54364,56171
+E07000105,Ashford,Local Authorities,117956,57232,60724
+E07000106,Canterbury,Local Authorities,151145,72638,78507
+E07000107,Dartford,Local Authorities,97365,48061,49304
+E07000108,Dover,Local Authorities,111674,54765,56909
+E07000109,Gravesham,Local Authorities,101720,50139,51581
+E07000110,Maidstone,Local Authorities,155143,76492,78651
+E07000111,Sevenoaks,Local Authorities,114893,55743,59150
+E07000112,Shepway,Local Authorities,107969,53135,54834
+E07000113,Swale,Local Authorities,135835,67152,68683
+E07000114,Thanet,Local Authorities,134186,64555,69631
+E07000115,Tonbridge and Malling,Local Authorities,120805,59207,61598
+E07000116,Tunbridge Wells,Local Authorities,115049,56494,58555
+E07000117,Burnley,Local Authorities,87059,42794,44265
+E07000118,Chorley,Local Authorities,107155,53708,53447
+E07000119,Fylde,Local Authorities,75757,36781,38976
+E07000120,Hyndburn,Local Authorities,80734,39977,40757
+E07000121,Lancaster,Local Authorities,138375,66841,71534
+E07000122,Pendle,Local Authorities,89452,44012,45440
+E07000123,Preston,Local Authorities,140202,70284,69918
+E07000124,Ribble Valley,Local Authorities,57132,27973,29159
+E07000125,Rossendale,Local Authorities,67982,33367,34615
+E07000126,South Ribble,Local Authorities,109057,53344,55713
+E07000127,West Lancashire,Local Authorities,110685,53840,56845
+E07000128,Wyre,Local Authorities,107749,52225,55524
+E07000129,Blaby,Local Authorities,93915,46228,47687
+E07000130,Charnwood,Local Authorities,166100,82913,83187
+E07000131,Harborough,Local Authorities,85382,42353,43029
+E07000132,Hinckley and Bosworth,Local Authorities,105078,51700,53378
+E07000133,Melton,Local Authorities,50376,24718,25658
+E07000134,North West Leicestershire,Local Authorities,93468,46335,47133
+E07000135,Oadby and Wigston,Local Authorities,56170,27169,29001
+E07000136,Boston,Local Authorities,64637,31536,33101
+E07000137,East Lindsey,Local Authorities,136401,66427,69974
+E07000138,Lincoln,Local Authorities,93541,45773,47768
+E07000139,North Kesteven,Local Authorities,107766,52603,55163
+E07000140,South Holland,Local Authorities,88270,43119,45151
+E07000141,South Kesteven,Local Authorities,133788,64656,69132
+E07000142,West Lindsey,Local Authorities,89250,43491,45759
+E07000143,Breckland,Local Authorities,130491,64566,65925
+E07000144,Broadland,Local Authorities,124646,60794,63852
+E07000145,Great Yarmouth,Local Authorities,97277,47762,49515
+E07000146,King's Lynn and West Norfolk,Local Authorities,147451,72053,75398
+E07000147,North Norfolk,Local Authorities,101499,49203,52296
+E07000148,Norwich,Local Authorities,132512,65267,67245
+E07000149,South Norfolk,Local Authorities,124012,60515,63497
+E07000150,Corby,Local Authorities,61255,30147,31108
+E07000151,Daventry,Local Authorities,77843,38899,38944
+E07000152,East Northamptonshire,Local Authorities,86765,43058,43707
+E07000153,Kettering,Local Authorities,93475,45896,47579
+E07000154,Northampton,Local Authorities,212069,104168,107901
+E07000155,South Northamptonshire,Local Authorities,85189,42098,43091
+E07000156,Wellingborough,Local Authorities,75356,37076,38280
+E07000163,Craven,Local Authorities,55409,26754,28655
+E07000164,Hambleton,Local Authorities,89140,43982,45158
+E07000165,Harrogate,Local Authorities,157869,77037,80832
+E07000166,Richmondshire,Local Authorities,51965,27407,24558
+E07000167,Ryedale,Local Authorities,51751,25413,26338
+E07000168,Scarborough,Local Authorities,108793,52570,56223
+E07000169,Selby,Local Authorities,83449,40947,42502
+E07000170,Ashfield,Local Authorities,119497,58665,60832
+E07000171,Bassetlaw,Local Authorities,112863,56024,56839
+E07000172,Broxtowe,Local Authorities,109487,54118,55369
+E07000173,Gedling,Local Authorities,113543,55348,58195
+E07000174,Mansfield,Local Authorities,104466,51308,53158
+E07000175,Newark and Sherwood,Local Authorities,114817,56556,58261
+E07000176,Rushcliffe,Local Authorities,111129,54703,56426
+E07000177,Cherwell,Local Authorities,141868,70126,71742
+E07000178,Oxford,Local Authorities,151906,75335,76571
+E07000179,South Oxfordshire,Local Authorities,134257,66005,68252
+E07000180,Vale of White Horse,Local Authorities,120988,60058,60930
+E07000181,West Oxfordshire,Local Authorities,104779,51447,53332
+E07000187,Mendip,Local Authorities,109279,53387,55892
+E07000188,Sedgemoor,Local Authorities,114588,56048,58540
+E07000189,South Somerset,Local Authorities,161243,79106,82137
+E07000190,Taunton Deane,Local Authorities,110187,53280,56907
+E07000191,West Somerset,Local Authorities,34675,16575,18100
+E07000192,Cannock Chase,Local Authorities,97462,48126,49336
+E07000193,East Staffordshire,Local Authorities,113583,56385,57198
+E07000194,Lichfield,Local Authorities,100654,49920,50734
+E07000195,Newcastle-under-Lyme,Local Authorities,123871,61206,62665
+E07000196,South Staffordshire,Local Authorities,108131,53243,54888
+E07000197,Stafford,Local Authorities,130869,65554,65315
+E07000198,Staffordshire Moorlands,Local Authorities,97106,47790,49316
+E07000199,Tamworth,Local Authorities,76813,37694,39119
+E07000200,Babergh,Local Authorities,87740,43004,44736
+E07000201,Forest Heath,Local Authorities,59748,30153,29595
+E07000202,Ipswich,Local Authorities,133384,66428,66956
+E07000203,Mid Suffolk,Local Authorities,96731,47924,48807
+E07000204,St Edmundsbury,Local Authorities,111008,55594,55414
+E07000205,Suffolk Coastal,Local Authorities,124298,60663,63635
+E07000206,Waveney,Local Authorities,115254,56021,59233
+E07000207,Elmbridge,Local Authorities,130875,63462,67413
+E07000208,Epsom and Ewell,Local Authorities,75102,36412,38690
+E07000209,Guildford,Local Authorities,137183,67923,69260
+E07000210,Mole Valley,Local Authorities,85375,41749,43626
+E07000211,Reigate and Banstead,Local Authorities,137835,67422,70413
+E07000212,Runnymede,Local Authorities,80510,39148,41362
+E07000213,Spelthorne,Local Authorities,95598,47053,48545
+E07000214,Surrey Heath,Local Authorities,86144,42868,43276
+E07000215,Tandridge,Local Authorities,82998,40158,42840
+E07000216,Waverley,Local Authorities,121572,59326,62246
+E07000217,Woking,Local Authorities,99198,49144,50054
+E07000218,North Warwickshire,Local Authorities,62014,30604,31410
+E07000219,Nuneaton and Bedworth,Local Authorities,125252,61441,63811
+E07000220,Rugby,Local Authorities,100075,49884,50191
+E07000221,Stratford-on-Avon,Local Authorities,120485,58497,61988
+E07000222,Warwick,Local Authorities,137648,68650,68998
+E07000223,Adur,Local Authorities,61182,29513,31669
+E07000224,Arun,Local Authorities,149518,71303,78215
+E07000225,Chichester,Local Authorities,113794,54401,59393
+E07000226,Crawley,Local Authorities,106597,52698,53899
+E07000227,Horsham,Local Authorities,131301,63806,67495
+E07000228,Mid Sussex,Local Authorities,139860,68462,71398
+E07000229,Worthing,Local Authorities,104640,50384,54256
+E07000234,Bromsgrove,Local Authorities,93637,46300,47337
+E07000235,Malvern Hills,Local Authorities,74631,36336,38295
+E07000236,Redditch,Local Authorities,84214,41848,42366
+E07000237,Worcester,Local Authorities,98768,48563,50205
+E07000238,Wychavon,Local Authorities,116944,57445,59499
+E07000239,Wyre Forest,Local Authorities,97975,48299,49676
+E08000001,Bolton,Local Authorities,276786,136660,140126
+E08000002,Bury,Local Authorities,185060,90588,94472
+E08000003,Manchester,Local Authorities,503127,252623,250504
+E08000004,Oldham,Local Authorities,224897,110155,114742
+E08000005,Rochdale,Local Authorities,211699,103642,108057
+E08000006,Salford,Local Authorities,233933,116782,117151
+E08000007,Stockport,Local Authorities,283275,138400,144875
+E08000008,Tameside,Local Authorities,219324,107650,111674
+E08000009,Trafford,Local Authorities,226578,110959,115619
+E08000010,Wigan,Local Authorities,317849,157996,159853
+E08000011,Knowsley,Local Authorities,145893,69329,76564
+E08000012,Liverpool,Local Authorities,466415,230483,235932
+E08000013,St. Helens,Local Authorities,175308,86138,89170
+E08000014,Sefton,Local Authorities,273790,131237,142553
+E08000015,Wirral,Local Authorities,319783,153847,165936
+E08000016,Barnsley,Local Authorities,231221,113634,117587
+E08000017,Doncaster,Local Authorities,302402,149230,153172
+E08000018,Rotherham,Local Authorities,257280,126247,131033
+E08000019,Sheffield,Local Authorities,552698,272661,280037
+E08000020,Gateshead,Local Authorities,200214,97974,102240
+E08000021,Newcastle upon Tyne,Local Authorities,280177,140226,139951
+E08000022,North Tyneside,Local Authorities,200801,96883,103918
+E08000023,South Tyneside,Local Authorities,148127,71560,76567
+E08000024,Sunderland,Local Authorities,275506,133953,141553
+E08000025,Birmingham,Local Authorities,1073045,527806,545239
+E08000026,Coventry,Local Authorities,316960,157621,159339
+E08000027,Dudley,Local Authorities,312925,153819,159106
+E08000028,Sandwell,Local Authorities,308063,151592,156471
+E08000029,Solihull,Local Authorities,206674,100352,106322
+E08000030,Walsall,Local Authorities,269323,132319,137004
+E08000031,Wolverhampton,Local Authorities,249470,123441,126029
+E08000032,Bradford,Local Authorities,522452,257132,265320
+E08000033,Calderdale,Local Authorities,203826,99627,104199
+E08000034,Kirklees,Local Authorities,422458,208657,213801
+E08000035,Leeds,Local Authorities,751485,367935,383550
+E08000036,Wakefield,Local Authorities,325837,159913,165924
+E09000002,Barking and Dagenham,Local Authorities,185911,90237,95674
+E09000003,Barnet,Local Authorities,356386,172676,183710
+E09000004,Bexley,Local Authorities,231997,111676,120321
+E09000005,Brent,Local Authorities,311215,156468,154747
+E09000006,Bromley,Local Authorities,309392,148588,160804
+E09000007,Camden,Local Authorities,220338,107885,112453
+E09000008,Croydon,Local Authorities,363378,176224,187154
+E09000009,Ealing,Local Authorities,338449,169175,169274
+E09000010,Enfield,Local Authorities,312466,150654,161812
+E09000011,Greenwich,Local Authorities,254557,126224,128333
+E09000012,Hackney,Local Authorities,246270,122029,124241
+E09000013,Hammersmith and Fulham,Local Authorities,182493,88914,93579
+E09000014,Haringey,Local Authorities,254926,126224,128702
+E09000015,Harrow,Local Authorities,239056,118023,121033
+E09000016,Havering,Local Authorities,237232,114209,123023
+E09000017,Hillingdon,Local Authorities,273936,135811,138125
+E09000018,Hounslow,Local Authorities,253957,127397,126560
+E09000019,Islington,Local Authorities,206125,101405,104720
+E09000020,Kensington and Chelsea,Local Authorities,158649,78194,80455
+E09000021,Kingston upon Thames,Local Authorities,160060,78103,81957
+E09000022,Lambeth,Local Authorities,303086,150921,152165
+E09000023,Lewisham,Local Authorities,275885,134957,140928
+E09000024,Merton,Local Authorities,199693,98515,101178
+E09000025,Newham,Local Authorities,307984,160336,147648
+E09000026,Redbridge,Local Authorities,278970,138073,140897
+E09000027,Richmond upon Thames,Local Authorities,186990,91149,95841
+E09000028,Southwark,Local Authorities,288283,142618,145665
+E09000029,Sutton,Local Authorities,190146,92443,97703
+E09000030,Tower Hamlets,Local Authorities,254096,130906,123190
+E09000031,Waltham Forest,Local Authorities,258249,128970,129279
+E09000032,Wandsworth,Local Authorities,306995,148646,158349
+E41000052,"Cornwall, Isles of Scilly",Local Authorities,534476,258907,275569
+E41000324,"City of London, Westminster",Local Authorities,226771,115639,111132
+S12000005,Clackmannanshire,Local Authorities,51442,25109,26333
+S12000006,Dumfries & Galloway,Local Authorities,151324,73405,77919
+S12000008,East Ayrshire,Local Authorities,122767,59389,63378
+S12000010,East Lothian,Local Authorities,99717,47873,51844
+S12000011,East Renfrewshire,Local Authorities,90574,43165,47409
+S12000013,Eilean Siar,Local Authorities,27684,13668,14016
+S12000014,Falkirk,Local Authorities,155990,76150,79840
+S12000015,Fife,Local Authorities,365198,176943,188255
+S12000017,Highland,Local Authorities,232132,113471,118661
+S12000018,Inverclyde,Local Authorities,81485,38999,42486
+S12000019,Midlothian,Local Authorities,83187,40071,43116
+S12000020,Moray,Local Authorities,93295,45941,47354
+S12000021,North Ayrshire,Local Authorities,138146,65804,72342
+S12000023,Orkney Islands,Local Authorities,21349,10566,10783
+S12000024,Perth & Kinross,Local Authorities,146652,71443,75209
+S12000026,Scottish Borders,Local Authorities,113870,55160,58710
+S12000027,Shetland Islands,Local Authorities,23167,11761,11406
+S12000028,South Ayrshire,Local Authorities,112799,53732,59067
+S12000029,South Lanarkshire,Local Authorities,313830,150858,162972
+S12000030,Stirling,Local Authorities,90247,43240,47007
+S12000033,Aberdeen City,Local Authorities,222793,110122,112671
+S12000034,Aberdeenshire,Local Authorities,252973,125269,127704
+S12000035,Argyll & Bute,Local Authorities,88166,43140,45026
+S12000036,"Edinburgh, City of",Local Authorities,476626,232364,244262
+S12000038,Renfrewshire,Local Authorities,174908,84109,90799
+S12000039,West Dunbartonshire,Local Authorities,90720,43183,47537
+S12000040,West Lothian,Local Authorities,175118,85556,89562
+S12000041,Angus,Local Authorities,115978,56206,59772
+S12000042,Dundee City,Local Authorities,147268,70706,76562
+S12000044,North Lanarkshire,Local Authorities,337727,163382,174345
+S12000045,East Dunbartonshire,Local Authorities,105026,50583,54443
+S12000046,Glasgow City,Local Authorities,593245,286076,307169
+W06000001,Isle of Anglesey,Local Authorities,69751,34274,35477
+W06000002,Gwynedd,Local Authorities,121874,59906,61968
+W06000003,Conwy,Local Authorities,115228,55749,59479
+W06000004,Denbighshire,Local Authorities,93734,45987,47747
+W06000005,Flintshire,Local Authorities,152506,75247,77259
+W06000006,Wrexham,Local Authorities,134844,67052,67792
+W06000008,Ceredigion,Local Authorities,75922,37793,38129
+W06000009,Pembrokeshire,Local Authorities,122439,59823,62616
+W06000010,Carmarthenshire,Local Authorities,183777,89837,93940
+W06000011,Swansea,Local Authorities,239023,118087,120936
+W06000012,Neath Port Talbot,Local Authorities,139812,68450,71362
+W06000013,Bridgend,Local Authorities,139178,68789,70389
+W06000014,The Vale of Glamorgan,Local Authorities,126336,61522,64814
+W06000015,Cardiff,Local Authorities,346090,169893,176197
+W06000016,Rhondda Cynon Taf,Local Authorities,234410,114635,119775
+W06000018,Caerphilly,Local Authorities,178806,87701,91105
+W06000019,Blaenau Gwent,Local Authorities,69814,34325,35489
+W06000020,Torfaen,Local Authorities,91075,44382,46693
+W06000021,Monmouthshire,Local Authorities,91323,44922,46401
+W06000022,Newport,Local Authorities,145736,71380,74356
+W06000023,Powys,Local Authorities,132976,65683,67293
+W06000024,Merthyr Tydfil,Local Authorities,58802,28791,30011
