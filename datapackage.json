@@ -13,7 +13,7 @@
   "resources": [
     {
       "name": "sex_la",
-      "path": "data/sex_la.csv",
+      "path": "blob/master/data/sex_la.csv",
       "schema": {
         "fields": [
           {
